@@ -12,8 +12,26 @@
 10. 3 will be printed to the console because "length" is declared with const and the function call on line 13 is inside of the code block where "length: was declared.
 11. The array [50, 100, 150] will be returned because "discounted" is declared with const and the return call is inside of the code block where "discounted" was declared. Also the variable identifier is not being reassigned.
 
-12A. student.name
-12B. student['Grad Year']
-12C. student.greeting()
-12D. student['Favorite Teacher'].name
-12E. student.courseLoad[0]
+12A. student.name  
+12B. student['Grad Year']  
+12C. student.greeting()  
+12D. student['Favorite Teacher'].name  
+12E. student.courseLoad[0]  
+
+13A. '32' was the output because '3' is a string and gets concatenated to 2.  
+13B. 1 was the output because '3' gets converted to a number due to the -.  
+13C. 3 was the output because null gets converted to 0 due to the +.  
+13D. '3null' was the output because null gets converted to a string because '3' is a string.  
+13E. 
+13F. 
+13G. 
+13H. 
+
+14A. 
+14B. 
+14C. 
+14D. 
+14E. 
+14F. 
+
+15. 
