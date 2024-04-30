@@ -35,4 +35,4 @@
 14F. true was the output because boolean(2) is true.  
 
 15. == changes both operands to the same type before comparison and === does not change both operands to the same type before comparison.
-16. part2-question16.js 
+16. [part2-question16.js](part2-question16.js)
