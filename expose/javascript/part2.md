@@ -38,3 +38,9 @@
 16. [part2-question16.js](part2-question16.js)
 17. [2, 4, 6] will be returned. Each iteration of the loop goes through each element in the array. In the body of the for loop, each element is taken from array, doubled (this is what doSomething does), then pushed to newArr. Then newArr is returned
 18. [part2-question18.js](part2-question18.js)
+19. 1  
+    4  
+    3  
+    2
+    
+    
