@@ -22,16 +22,17 @@
 13B. 1 was the output because '3' gets converted to a number due to the -.  
 13C. 3 was the output because null gets converted to 0 due to the +.  
 13D. '3null' was the output because null gets converted to a string because '3' is a string.  
-13E. 
-13F. 
-13G. 
-13H. 
+13E. 4 was the output because true gets converted to 1 due to the +.  
+13F. 0 was the output because false and null get converted to 0 due to the +.  
+13G. '3undefined' was the output because undefined gets converted to a string because '3' is a string.  
+13H. Nan was the output because undefined cannot be converted to a number.  
 
-14A. 
-14B. 
-14C. 
-14D. 
-14E. 
-14F. 
+14A. true was the output because '2' gets converted to a number.  
+14B. false was the output because strings are being compared and '1' is less than '2'.  
+14C. true was the output because == changes both operands to the same type before comparison.  
+14D. false was the output because === does not change both operands to the same type before comparison.  
+14E. false was the output because true gets converted to 1 and 1 =/= 2.  
+14F. true was the output because boolean(2) is true.  
 
-15. 
+15. == changes both operands to the same type before comparison and === does not change both operands to the same type before comparison.
+16. part2-question16.js 
